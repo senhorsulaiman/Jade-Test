@@ -5,4 +5,9 @@ h1 {
 
 p {
   color: green;
+  transition: all 0.3s ease-in-out;
+}
+
+p:hover {
+  color: pink;
 }
